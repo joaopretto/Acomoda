@@ -13,7 +13,7 @@ const config: Config = {
   ],
   theme: {
     backgroundImage: {
-      'loginBackground': "url('/images/background.png')"
+      'loginBackground': "url('/images/background2.png')"
     },
     fontFamily:{
       'fontName': ['RoadRace']
